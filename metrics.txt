@@ -1,0 +1,3 @@
+Average processing time: 12.98 seconds
+Average number of detections: 7.99
+Average confidence: 0.80
